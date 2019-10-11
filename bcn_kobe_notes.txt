@@ -1,0 +1,28 @@
+
+Ivókutak:
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/fonts/resource/415e7f5a-3bc6-4587-ab18-cbc799eb2e05
+
+Díszes ivókutak:
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/fonts-ornamentals/resource/71702717-0f04-49be-989e-f069e17b4d2c
+(összevetni a másikkal, hogy minden kút megvan-e, meg ezek ivókutak-e)
+
+Felplottolni ivókutakat, megnézni hogy városnegyedenként 1000 lakosra hány ivókút jut
+Esetleg megnézni főbb vonulási útvonalakat és összevetni, hogy hova kéne ivókút
+
+Population
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-densitat/resource/c2377d82-774c-4d54-8e56-6c8978189df9
+
+
+Bicikliutak (geojson):
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/carril-bici
+
+Shapefiles Bcn barrios
+https://laura-an.carto.com/tables/shapefiles_barrio_barcelona/public
+
+official shapefiles of Bcn
+https://github.com/martgnz/bcn-geodata
+
+
+
+Térkép BCN:
+https://community.plot.ly/t/choropleth-map-in-dash/4807
