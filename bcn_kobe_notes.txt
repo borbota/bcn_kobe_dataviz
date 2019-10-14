@@ -26,3 +26,10 @@ https://github.com/martgnz/bcn-geodata
 
 Térkép BCN:
 https://community.plot.ly/t/choropleth-map-in-dash/4807
+
+Limpieza pública, recogida y tratamiento de basuras
+https://www.bcn.cat/estadistica/castella/dades/anuari/cap18/C1801060.htm
+
+1.7. Puntos de recogida de contenedores de basura limpia por distritos. 2014-2018
+https://www.bcn.cat/estadistica/castella/dades/anuari/cap18/C1801070.htm
+
