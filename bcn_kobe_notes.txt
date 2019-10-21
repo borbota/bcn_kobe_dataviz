@@ -22,8 +22,6 @@ https://laura-an.carto.com/tables/shapefiles_barrio_barcelona/public
 official shapefiles of Bcn
 https://github.com/martgnz/bcn-geodata
 
-
-
 Térkép BCN:
 https://community.plot.ly/t/choropleth-map-in-dash/4807
 
@@ -33,3 +31,12 @@ https://www.bcn.cat/estadistica/castella/dades/anuari/cap18/C1801060.htm
 1.7. Puntos de recogida de contenedores de basura limpia por distritos. 2014-2018
 https://www.bcn.cat/estadistica/castella/dades/anuari/cap18/C1801070.htm
 
+Parques urbanos
+https://www.bcn.cat/estadistica/castella/dades/anuari/cap01/C0101090.htm
+
+Verde urbano
+https://www.bcn.cat/estadistica/castella/dades/anuari/cap01/C0101120.htm
+
+vehiculos
+https://www.bcn.cat/estadistica/castella/dades/anuari/cap15/C1509020.htm
+Turismo: Se considera turismo el vehículo de cuatro ruedas destinado al transporte de viajeros, con capacidad inferior a nueve plazas, incluido el conductor.
